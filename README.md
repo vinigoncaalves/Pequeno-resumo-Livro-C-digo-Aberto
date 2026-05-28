@@ -1,0 +1,1 @@
+# Pequeno-resumo-Livro-C-digo-Aberto
